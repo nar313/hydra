@@ -1,0 +1,11 @@
+hydra_legal_source.json
+{
+  "name": "Goat Simulator 3 - Official",
+  "games": [
+    {
+      "title": "Goat Simulator 3",
+      "shop": "steam",
+      "url": "https://store.steampowered.com/app/850190/Goat_Simulator_3/"
+    }
+  ]
+}
